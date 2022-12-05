@@ -4,5 +4,5 @@ I am an undergraduate Computer Science freshman at Lone Star Community College &
 
 **About**
 - 🔭 I'm currently working on my coding skills! I'm also dabbling in food photography, UX/UI design, and learning more languages in my free time. 
-- 🌱 I’m currently learning C++, Javascript, Python, and Data Algorithms. 
+- 🌱 I’m currently learning C++, Javascript, Java, Python, and Data Algorithms. 
 - ⚡ Fun fact: I have a twin sister, I'm learning Japanese and Vietnamese, and I like heavy metal. 
